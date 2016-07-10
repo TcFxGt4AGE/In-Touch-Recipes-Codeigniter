@@ -1,0 +1,10 @@
+img {
+    max-width: 500px;
+	display: block;
+}
+#field {
+    margin-bottom: 20px;
+}
+header.intro-header {
+    background-image: url('img/home-bg.jpg');
+}
